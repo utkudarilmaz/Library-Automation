@@ -13,4 +13,4 @@ Ya da bu işlemleri yapmak istemiyorsanız program kodları kısmından Database
 Veri tabanını ekleme işlemleri bittikten sonra "Library\dist" dizinin altındaki
 "Library.jar" dosyası çalıştırılarak programa erişim sağlanabilir.
 
-Gerekli işlemlerden sonra programı, bashde "dist" dizinine düşerek “java -jar Library.jar” komutuyla çalıştırabilirsiniz.
+Gerekli işlemlerden sonra programı, konsolda "dist" dizinine düşerek “java -jar Library.jar” komutuyla çalıştırabilirsiniz.
